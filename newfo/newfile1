@@ -1,1 +1,2 @@
-touch new2.sh
+#!bin/bash
+echo "mNJUNth"
